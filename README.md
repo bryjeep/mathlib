@@ -1,0 +1,1 @@
+This is not a real library and exists to test License Compliance Checks
